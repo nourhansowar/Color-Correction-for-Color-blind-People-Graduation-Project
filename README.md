@@ -1,10 +1,16 @@
 # Color-Correction-for-Color-blind-People-Graduation-Project
 
-#                                             My Graduation Project is called Achromatopsia Driver Assistance System
+#                                                 Graduation Project is Achromatopsia Driver Assistance System
                                              
-Our main solution in the color blindness system is to build a color correction sub-system for people with color blindness.
+The main solution in the color blindness system is to build a color correction sub-system for people with color blindness.
 
 This is done in two steps: the first is to simulate the problem and gather data, second is to build a deep learning model for color correction to be used.
+
+## Simulation the problem
+
+![image](https://user-images.githubusercontent.com/48545560/181923632-22d3d691-5797-4d1d-94f6-c3aa37ae544e.png)
+
+
 
                                              
 The solution for correction images for people with colorblindness is a GANs Model. we used a deep learning model because it will be very fast in terms of processing time in the tools, we used like JESTSON board. 
