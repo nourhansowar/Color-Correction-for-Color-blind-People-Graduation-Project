@@ -1,2 +1,5 @@
 # Color-Correction-for-Color-blind-People-Graduation-Project
-This repo contains my progress in my Graduation Project2022.
+
+                                             #My Graduation Project is called Achromatopsia Driver Assistance System
+                                             
+                                             
