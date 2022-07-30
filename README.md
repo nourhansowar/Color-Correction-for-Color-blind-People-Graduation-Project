@@ -11,4 +11,6 @@ The solution for correction images for people with colorblindness is a GANs Mode
 After research in GANs architecture that used in image translation
 specially colorblindness correction methods, we found that pix2pix architecture is the best
 architecture for our project as also it is used in colorization old images.
-![image](https://user-images.githubusercontent.com/48545560/181922083-ffddd233-527e-43ab-b4c5-d897e92b6975.png)
+
+
+![image](https://user-images.githubusercontent.com/48545560/181922408-a448a9db-f25a-408e-a9b9-35deb63c6496.png)
