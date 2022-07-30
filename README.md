@@ -1,6 +1,6 @@
 # Color-Correction-for-Color-blind-People-Graduation-Project
 
-#                                                 Graduation Project is Achromatopsia Driver Assistance System
+#                                                 Graduation Project is Achromatopsia Driver Assistance System (ADAS)
                                              
 **The main solution in the color blindness system is to build a color correction sub-system for people with color blindness.**
 
@@ -29,10 +29,8 @@ Third, Applied these 2 datasets to the Pix2Pix model which is an image to image 
 
 ## AI Model Stage
                                    
-The solution for correction images for people with colorblindness is a GANs Model. we used a deep learning model because it will be very fast in terms of processing time in the tools, we used like JESTSON board. 
-After research in GANs architecture that used in image translation
-specially colorblindness correction methods, we found that pix2pix architecture is the best
-architecture for our project as also it is used in colorization old images.
+The solution for correction images for people with colorblindness is a GANs Model. we used a deep learning model called Pix2Pix which divides to 2 sub models: Generator and Discrimiator.
 
+The below diagram shows how pix2pix works.
 
 ![image](https://user-images.githubusercontent.com/48545560/181922408-a448a9db-f25a-408e-a9b9-35deb63c6496.png)
