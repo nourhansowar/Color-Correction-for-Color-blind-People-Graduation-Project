@@ -10,6 +10,10 @@ This is done in two steps: the first is to simulate the problem and gather data,
 
 ![image](https://user-images.githubusercontent.com/48545560/181923632-22d3d691-5797-4d1d-94f6-c3aa37ae544e.png)
 
+## The Color corrected Image
+
+![image](https://user-images.githubusercontent.com/48545560/181923686-730d0495-54e9-4f6e-8a1a-df6bf1aca12a.png)
+
 
 
                                              
