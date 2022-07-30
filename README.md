@@ -26,6 +26,9 @@ Third, Applied these 2 datasets to the Pix2Pix model which is an image to image 
 
 ![image](https://user-images.githubusercontent.com/48545560/181936549-889eb6ef-38eb-46df-8024-c162be0a4ba1.png)
 
+All dataset and results we  have uploaded to google drive while working on it on this link: 
+https://drive.google.com/drive/folders/1c6FK3TvBSq8YqB46kcuSzHV-8pH25Rew?usp=sharing
+
 
 ## AI Model Stage
                                    
@@ -34,3 +37,10 @@ The solution for correction images for people with colorblindness is a GANs Mode
 The below diagram shows how pix2pix works.
 
 ![image](https://user-images.githubusercontent.com/48545560/181922408-a448a9db-f25a-408e-a9b9-35deb63c6496.png)
+
+## The result is to succeed in converting the live stream of cameras to a color-corrected stream which is suitable for color-blind people to recognize the front objects while driving.
+
+![image](https://user-images.githubusercontent.com/48545560/181937587-0615e8ba-69cd-4bb4-8cfa-99704e82b626.png)
+
+![image](https://user-images.githubusercontent.com/48545560/181937574-60163895-f14d-4dda-89bf-83685ff736c9.png)
+
