@@ -38,6 +38,10 @@ The below diagram shows how pix2pix works.
 
 ![image](https://user-images.githubusercontent.com/48545560/181922408-a448a9db-f25a-408e-a9b9-35deb63c6496.png)
 
+
+the following link which is Colab Notebook contains the latest progreess while data preperation and GANs Training:
+https://colab.research.google.com/drive/1OOHw38WpO8D9OmEwvK-Tl9OvZWvgIrXB?usp=sharing
+
 ## The result is to succeed in converting the live stream of cameras to a color-corrected stream which is suitable for color-blind people to recognize the front objects while driving.
 
 ![image](https://user-images.githubusercontent.com/48545560/181937587-0615e8ba-69cd-4bb4-8cfa-99704e82b626.png)
